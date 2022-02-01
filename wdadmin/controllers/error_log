@@ -1,0 +1,50 @@
+[18-Mar-2020 15:49:13 America/Fortaleza] PHP Warning:  unlink(../uploads/galeria_imagens/undefined): No such file or directory in /home4/altaperformance/public_html/wdadmin/class/Arquivos.class.php on line 43
+[18-Mar-2020 16:54:51 America/Fortaleza] PHP Warning:  unlink(../uploads/servicos/servico-2-202003022009.png): No such file or directory in /home4/altaperformance/public_html/wdadmin/class/Arquivos.class.php on line 43
+[26-Mar-2020 10:59:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[26-Mar-2020 11:00:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[26-Mar-2020 11:00:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[26-Mar-2020 11:01:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[26-Mar-2020 11:04:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[26-Mar-2020 11:07:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[26-Mar-2020 11:08:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[26-Mar-2020 11:20:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[26-Mar-2020 11:22:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[26-Mar-2020 11:23:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method RhCandidatos::salva_dados() in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/altaperformance/public_html/wdadmin/controllers/SalvaDadosRhCandidatos.php on line 46
+[17-Jul-2020 19:12:50 America/Sao_Paulo] PHP Warning:  unlink(../uploads/blog_postagens/receitas-deliciosas-com-frutadoconde-202007171911.jpg): No such file or directory in /home4/brasilprodutor/public_html/wdadmin/class/Arquivos.class.php on line 47
+[21-Jul-2020 15:00:35 America/Sao_Paulo] PHP Warning:  unlink(../uploads/blog_postagens/mais-de-60-mil-agricultores-devem-receber-o-garantia-safra-202007211446.jpg): No such file or directory in /home4/brasilprodutor/public_html/wdadmin/class/Arquivos.class.php on line 47
+[27-Jul-2020 17:43:21 America/Sao_Paulo] PHP Warning:  unlink(../uploads/blog_postagens/transporte-de-carcacas-de-javalis-tem-novas-regras-em-goias-202007271742.jpg): No such file or directory in /home4/brasilprodutor/public_html/wdadmin/class/Arquivos.class.php on line 47
+[17-Aug-2020 09:22:16 America/Sao_Paulo] PHP Warning:  unlink(../uploads/blog_postagens/mapa-reconhece-acre-area-livre-de-aftosa-sem-vacina-202008170919.jpg): No such file or directory in /home4/brasilprodutor/public_html/wdadmin/class/Arquivos.class.php on line 47
+[24-Aug-2020 09:45:08 America/Sao_Paulo] PHP Warning:  unlink(../uploads/blog_postagens/norte-e-nordeste-sao-destaque-no-zoneamento-agricola-de-risco-climatico-202008240943.jpg): No such file or directory in /home4/brasilprodutor/public_html/wdadmin/class/Arquivos.class.php on line 47
+[09-Sep-2020 11:24:36 America/Sao_Paulo] PHP Warning:  unlink(../uploads/blog_postagens/pesquisa-e-inovacao-e-o-tema-do-terceiro-episodio-do-caminhos-do-agro-sp-202009091123.jpg): No such file or directory in /home4/brasilprodutor/public_html/wdadmin/class/Arquivos.class.php on line 47
+[09-Sep-2020 11:41:24 America/Sao_Paulo] PHP Warning:  unlink(../uploads/blog_postagens/-sindromes-neurologicas-em-animais-e-tema-de-workshop-online--202009091140.jpg): No such file or directory in /home4/brasilprodutor/public_html/wdadmin/class/Arquivos.class.php on line 47
+[18-Nov-2020 17:52:14 America/Sao_Paulo] PHP Warning:  unlink(../uploads/blog_postagens/governo-planeja-com-foco-no-desenvolvimento-sustentavel-202011161437.jpg): No such file or directory in /home4/brasilprodutor/public_html/wdadmin/class/Arquivos.class.php on line 47
